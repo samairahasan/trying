@@ -1,0 +1,4 @@
+git add data/clean/industry_pay_clean.csv scripts/02_clean_industry_data.py
+git commit -m "Clean ASHE hourly pay data by industry"
+git push
+  
